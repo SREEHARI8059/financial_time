@@ -1,5 +1,3 @@
-# financial_time
-=======
 # Financial Time Series Forecasting using STFT and CNN
 
 ## 👤 Student Details
